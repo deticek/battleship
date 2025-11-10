@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potabljanje_Ladic", "Potabljanje_Ladic.csproj", "{B93B0BAB-787D-06F6-63EC-FBF32B0D5615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93B0BAB-787D-06F6-63EC-FBF32B0D5615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93B0BAB-787D-06F6-63EC-FBF32B0D5615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93B0BAB-787D-06F6-63EC-FBF32B0D5615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93B0BAB-787D-06F6-63EC-FBF32B0D5615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {427113A2-7AE5-4A88-A2FC-0E5BF8DC8505}
+	EndGlobalSection
+EndGlobal

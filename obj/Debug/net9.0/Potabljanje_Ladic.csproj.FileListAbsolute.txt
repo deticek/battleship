@@ -1,0 +1,14 @@
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.AssemblyInfoInputs.cache
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.AssemblyInfo.cs
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\bin\Debug\net9.0\Potabljanje_Ladic.exe
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\bin\Debug\net9.0\Potabljanje_Ladic.deps.json
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\bin\Debug\net9.0\Potabljanje_Ladic.runtimeconfig.json
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\bin\Debug\net9.0\Potabljanje_Ladic.dll
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\bin\Debug\net9.0\Potabljanje_Ladic.pdb
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.dll
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\refint\Potabljanje_Ladic.dll
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.pdb
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\Potabljanje_Ladic.genruntimeconfig.cache
+C:\Users\Aleks\Documents\fax\Programiranje1\Potabljanje_Ladic\obj\Debug\net9.0\ref\Potabljanje_Ladic.dll
